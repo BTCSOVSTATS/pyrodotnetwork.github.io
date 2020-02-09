@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="2px" viewBox="0 0 49 2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-0.098973306%" y1="50.5%" x2="99.8156057%" y2="50.5%" id="linearGradient-1">
+            <stop stop-color="#FFC900" offset="0%"></stop>
+            <stop stop-color="#FF1A6B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="0" y="0" width="48.7" height="1.4"></rect>
+    </g>
+</svg>
